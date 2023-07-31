@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-16\day16-assign19-1\day16-assign19-1\bin\Debug\day16-assign19-1.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-16\day16-assign19-1\day16-assign19-1\bin\Debug\day16-assign19-1.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-16\day16-assign19-1\day16-assign19-1\bin\Debug\day16-assign19-1.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-16\day16-assign19-1\day16-assign19-1\obj\Debug\day16-assign19-1.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-16\day16-assign19-1\day16-assign19-1\obj\Debug\day16-assign19-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-16\day16-assign19-1\day16-assign19-1\obj\Debug\day16-assign19-1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-16\day16-assign19-1\day16-assign19-1\obj\Debug\day16-assign19-1.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Day-16\day16-assign19-1\day16-assign19-1\obj\Debug\day16-assign19-1.pdb
